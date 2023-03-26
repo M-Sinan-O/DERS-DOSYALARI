@@ -1,3 +1,6 @@
-# Ders-Dosyaları-
+# DERS DOSYALARI
  
- İşlenen derslerin haftalık ders notlarına yukarıdaki seçeneklerden ulaşabilirsiniz..
+ ![My Remote Image](https://miro.medium.com/v2/resize:fit:640/0*KKiBtagLDo4Xo5SN.gif)
+
+
+ Derslerin ders notlarına yukarıdan ulaşabilirsiniz..
