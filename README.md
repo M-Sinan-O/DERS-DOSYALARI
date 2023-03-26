@@ -1,2 +1,3 @@
-# Ders-Dosyalar-
- ders notları
+# Ders-Dosyaları-
+ 
+ İşlenen derslerin haftalık ders notlarına yukarıdaki seçeneklerden ulaşabilirsiniz..
